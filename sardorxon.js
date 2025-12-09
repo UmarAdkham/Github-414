@@ -1,2 +1,1 @@
-console.log("Valiyev Sardorxon");
-console.log("Test conflict");
+console.log("Valiyev Sardorxon")

@@ -1,2 +1,2 @@
-console.log('Umar Adkhamov');
-consol.log('Diyorbek Primqulov');
+console.log('Muhammad Togayev');
+console.log('Diyorbek');
