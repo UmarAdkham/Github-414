@@ -1,1 +1,1 @@
-console.log("hi guys")
+console.log("Keyingi seshanba dars bo'lmaydi...")
