@@ -1,1 +1,1 @@
-console.log("Keyingi seshanba dars bo'lmaydi...")
+console.log("Valiyev Sardorxon")
