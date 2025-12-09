@@ -1,1 +1,1 @@
-console.log('Umar Adkhamov');
+console.log('Muhammad Togayev');
