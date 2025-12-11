@@ -1,3 +1,5 @@
 consol.log('Diyorbek Primqulov');
-consol.log('Nimadir')
+consol.log('Primqulov ');
 consol.log('Primqulov Diyorbek');
+consol.console.log("Error");
+
