@@ -1,1 +1,2 @@
-console.log("Yarkinov Akbarshoh");
+console.log("yarkinov doniyorbek");
+console.log("Abdurashidov Akbarshoh");
