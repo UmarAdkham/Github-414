@@ -1,1 +1,1 @@
-console.log('Yarkinov Doniyorbek');
+console.log('yarkinovd');
