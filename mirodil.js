@@ -1,1 +1,1 @@
-console.log('mirjalilov mimrodil')
+console.log('mirjalilov mimrodilф')
