@@ -1,2 +1,2 @@
 console.log('Axrorov Biloliddin');
-console.log()
+console.log('ozgartirish kiritildi');
